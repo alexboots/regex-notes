@@ -1,3 +1,4 @@
+```
 \d = digit
 \. = match a dot ('.') since dot ('.') is wildcard in regex, have to escape it
 [] = match specific characters by putting them inside square brackets. 
@@ -55,7 +56,7 @@ https://regexone.com/lesson/nested_groups?
 
 \b = matches the boundary between a word and a non-word character
 Its most useful in capturing entire words (for example by using the pattern \w+\b).
-
+```
 
 
 
